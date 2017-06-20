@@ -3,4 +3,5 @@
 
 # Unctracked files
 *.log
+!special.log
 .DS_Store
